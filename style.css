@@ -1,0 +1,12 @@
+/* Recomendaciones de estilos de Diego De Granda
+1. Posicionamiento 
+2. Modelo de caja (box model)
+3. Tipografía
+4. Temas visuales 
+5. Miscelanios u otros
+*/
+:root {
+    /*Colores*/
+    --bitcoin-orange: #F7931A;
+    --soft-orange: #FFE9D5;
+}
